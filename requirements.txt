@@ -1,1 +1,4 @@
-pytest
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+pytest>=7.0.0
+pytest-mock>=3.10.0
