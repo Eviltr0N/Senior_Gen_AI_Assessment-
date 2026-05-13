@@ -27,12 +27,12 @@ User Query
 
 ### Key modules
 
- `src/embedding.py` - Embedding services (Vertex AI mock + local sentence-transformers) 
- `src/storage.py`- ChromaDB vector store wrapper 
- `src/retrieval.py`- Strategy A (raw search), Strategy B (AI-enhanced), QueryExpander 
- `src/pipeline.py`- Orchestration class managing ingest and search 
- `src/corpus.py` - data of  8 technical paragraphs on distributed systems 
-
+ `src/embedding.py` - Embedding services (Vertex AI mock + local sentence-transformers)   
+ `src/storage.py`- ChromaDB vector store wrapper    
+ `src/retrieval.py`- Strategy A (raw search), Strategy B (AI-enhanced), QueryExpander   
+ `src/pipeline.py`- Orchestration class managing ingest and search   
+ `src/corpus.py` - data of  8 technical paragraphs on distributed systems   
+  
 ## Deliverables
 
 - **Source Code**: `src/` - Modular Python covering Embedding, Storage, and Retrieval
