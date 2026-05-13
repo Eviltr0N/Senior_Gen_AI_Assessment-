@@ -1,6 +1,6 @@
 # Semantic RAG & Vector Search Pipeline
 
-For assignment details see - GenAI_RAG_VectorSearch_Assessment.pdf
+For assignment details see - [GenAI_RAG_VectorSearch_Assessment.pdf](https://github.com/Eviltr0N/Senior_Gen_AI_Assessment-/blob/main/GenAI_RAG_VectorSearch_Assessment.pdf)
 
 ## Quick Start
 
@@ -35,10 +35,10 @@ User Query
 
 ## Deliverables
 
-- **Source Code**: `src/` — Modular Python covering Embedding, Storage, and Retrieval
-- **Tests**: `tests/` — Pytest suites verifying pipeline and GCP SDK mocking
-- **Benchmark**: `retrieval_benchmark.md` — Strategy A vs B comparison for 4 queries
-- **Documentation**: `documentation.md` — Cosine vs Euclidean rationale + Vertex AI migration guide
+- **Source Code**: `src/` - Modular Python covering Embedding, Storage, and Retrieval
+- **Tests**: `tests/` - Pytest suites verifying pipeline and GCP SDK mocking
+- **Benchmark**: [retrieval_benchmark.md](https://github.com/Eviltr0N/Senior_Gen_AI_Assessment-/blob/main/retrieval_benchmark.md) — Strategy A vs B comparison for 4 queries
+- **Documentation**: [documentation.md](https://github.com/Eviltr0N/Senior_Gen_AI_Assessment-/blob/main/documentation.md) - Cosine vs Euclidean rationale + Vertex AI migration guide
 
 ## Tech Stack
 
@@ -48,4 +48,4 @@ User Query
 - **Testing**: pytest + pytest-mock
 
 ### Note on AI Assisted Development
-I used Claude opus (via Antigravity) as a development accelerator during this assessment, primarily for boilerplate scaffolding and reviewing code structure.
+I used Claude opus (via Anti[gravity](https://antigravity.google/)) as a development accelerator during this assessment, primarily for boilerplate scaffolding and reviewing code structure.
